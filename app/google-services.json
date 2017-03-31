@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66433876263",
+    "firebase_url": "https://takehomeassignment07-ely-df6bc.firebaseio.com",
+    "project_id": "takehomeassignment07-ely-df6bc",
+    "storage_bucket": "takehomeassignment07-ely-df6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66433876263:android:29529c894736c727",
+        "android_client_info": {
+          "package_name": "com.elysewarren.takehomeassignment07_elysew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66433876263-diol8m2htfbsom1oqgdn23d337ilrd2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7F1s84ciciO2LvlvOc80ejgMobBlusDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
